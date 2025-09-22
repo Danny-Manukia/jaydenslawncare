@@ -1,0 +1,36 @@
+p{
+ text-align: center;
+}
+.tile-img{
+    float:left;
+    margin: 50px;
+    height: 200px;
+    display: inline-block;
+}
+
+.right{
+    float: left;
+    display: inline-block;
+}
+.left{
+    float: right;
+    display: inline;
+}
+#green{
+    color:green;
+    background-color: aqua;
+}
+#blue{
+    color: blue;
+    background-color: red;
+}
+.note{
+    color: black;
+    background-color: yellow;
+    display: inline;
+    position: absolute;
+    left: 500px;
+}
+.list{
+    display: inline-block;
+}
