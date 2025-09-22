@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+}
+#circle{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    float: left;
+    
+}
+p{
+    display: inline;
+   text-align: center;
+   
+}
+#fucking-wall{
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    float: right;
+}
+.header{
+    text-align: center;
+    color: blueviolet;
+    border: 5px dashed black;
+    height: 100px;
+    width: 100px;
+    margin-left:50%;
+}
+
+#of{
+    color: yellow;
+    font-size: 5rem;
+}
+.footer{
+    color:whitesmoke;
+    clear: both;
+    text-align: left;
+}
